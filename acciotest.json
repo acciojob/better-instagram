@@ -1,4 +1,4 @@
 {
-    "testRepo": "Better-Instagram-Solution",
+    "testRepo": "better-instagram-solution",
     "pathToFile": "cypress/integration/tests/test.spec.js"
 }
